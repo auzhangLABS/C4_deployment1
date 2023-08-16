@@ -18,3 +18,9 @@ Here is the diagram below:
 
 /n
 ![image](https://github.com/auzhangLABS/C4_deployment1/assets/138344000/4d47aa50-0a28-441b-830c-97992deeeb02)
+
+
+Here is a screenshot below to show that it works:
+
+/n
+![image](https://github.com/auzhangLABS/C4_deployment1/assets/138344000/c7e978fe-8644-45e3-84d6-e94e0f9976e6)
