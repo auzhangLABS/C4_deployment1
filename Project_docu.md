@@ -14,3 +14,5 @@ Documentation for Deployment1
 8. Have an issue with Elastic Beanstalk where my status kept degrading. I resolved this by extracting the files from the zip folder and re zipped it.
 
    
+Here is the diagram below:
+![image](https://github.com/auzhangLABS/C4_deployment1/assets/138344000/4d47aa50-0a28-441b-830c-97992deeeb02)
