@@ -11,16 +11,14 @@ Documentation for Deployment1
 
 ![image](https://github.com/auzhangLABS/C4_deployment1/assets/138344000/95f97ed4-935f-4750-beeb-029fc572ade3)
 
-8. Have an issue with Elastic Beanstalk where my status kept degrading. I resolved this by extracting the files from the zip folder and re zipped it.
-
-   
-Here is the diagram below:
+8. Have an issue with Elastic Beanstalk where my status kept degrading. I resolved this by extracting the files from the zip folder and re zipped them.
 
 
-![image](https://github.com/auzhangLABS/C4_deployment1/assets/138344000/4d47aa50-0a28-441b-830c-97992deeeb02)
-
-
-Here is a screenshot below to show that it works:
-
+Here is a screenshot below to show that this deployment was successful:
 
 ![image](https://github.com/auzhangLABS/C4_deployment1/assets/138344000/c7e978fe-8644-45e3-84d6-e94e0f9976e6)
+
+
+Here is the diagram below:
+
+![image](https://github.com/auzhangLABS/C4_deployment1/assets/138344000/4d47aa50-0a28-441b-830c-97992deeeb02)
