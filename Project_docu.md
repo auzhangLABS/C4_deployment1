@@ -21,6 +21,7 @@ Here is a screenshot below to show that this deployment was successful:
 
 Here is the diagram below:
 
-![image](https://github.com/auzhangLABS/C4_deployment1/assets/138344000/faf28308-f040-4a74-b1f1-73005fbd9d23)
+![image](https://github.com/auzhangLABS/C4_deployment1/assets/138344000/bacbb05d-1771-4aee-8421-d89c9f6427f4)
+
 
 
